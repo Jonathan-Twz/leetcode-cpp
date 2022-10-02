@@ -1,6 +1,4 @@
-#include<ListNode.hpp>
-#include<vector>
-#include<iostream>
+#include<ListNode.h>
 
 class Solution {
     public:
